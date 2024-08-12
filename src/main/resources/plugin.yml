@@ -1,0 +1,7 @@
+name: ServerInfo
+version: '1.0-SNAPSHOT'
+main: com.acclash.serverInfo.ServerInfo
+api-version: '1.21'
+authors: [ Anston_Sorensen ]
+description: A plugin that tells you everything about a server
+website: www.acclash.com
